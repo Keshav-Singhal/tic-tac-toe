@@ -1,4 +1,4 @@
-Hi, This is my 1st project using React. I followed the tutorial provided at the official React Website: https://react.dev/learn/tutorial-tic-tac-toe
+Hi, This is my 1st project using React. It's a Tic-Tac-Toe. I followed the tutorial provided at the official React Website: https://react.dev/learn/tutorial-tic-tac-toe
 
 To run this project:
 
