@@ -10,4 +10,5 @@ To run this project:
   
 - Run "npm start" to start a local server and follow the prompts to view the code running in a browser
 
-Thank You. 
+Thank You
+Keshav Singhal
